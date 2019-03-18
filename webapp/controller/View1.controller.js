@@ -6,6 +6,6 @@ sap.ui.define([
 	return Controller.extend("com.experiment.sample.controller.View1", {
 		onInit: function () {
 
-		}
+		} 
 	});
 });
